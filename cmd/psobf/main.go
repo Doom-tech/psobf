@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/TaurusOmar/psobf/internal/obfuscator"
+	"github.com/Doom-tech/psobf/internal/obfuscator"
 )
 
 func main() {
