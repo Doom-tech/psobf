@@ -1,7 +1,7 @@
 package psobf
 
 import (
-	"github.com/TaurusOmar/psobf/internal/obfuscator"
+	"github.com/Doom-tech/psobf/internal/obfuscator"
 )
 
 type Config = obfuscator.Options
